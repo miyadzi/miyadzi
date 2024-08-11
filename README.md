@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @miyadzi
+- 👀 I’m interested in graphic-design and animations.
+- 🌱 I’m currently learning lua
+- 📫 How to reach me miyadzi. on discord
